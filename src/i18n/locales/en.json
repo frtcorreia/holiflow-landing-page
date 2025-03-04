@@ -1,0 +1,320 @@
+{
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How it Works",
+    "testimonials": "Testimonials",
+    "pricing": "Pricing",
+    "signIn": "Sign In",
+    "signUp": "Sign Up"
+  },
+  "hero": {
+    "title1": "Simplify team",
+    "title2": "vacation management",
+    "description": "Streamline vacation requests, approvals, and team scheduling with our intuitive platform designed for modern teams.",
+    "getStarted": "Get started",
+    "liveDemo": "Live demo"
+  },
+  "features": {
+    "title": "Features",
+    "subtitle": "Everything you need to manage team vacations",
+    "description": "Our platform provides all the tools you need to efficiently manage your team's time off.",
+    "visualCalendar": {
+      "title": "Visual Calendar",
+      "description": "See your entire team's vacation schedule at a glance with our intuitive calendar view."
+    },
+    "approvalWorkflows": {
+      "title": "Approval Workflows",
+      "description": "Streamline the request and approval process with customizable workflows."
+    },
+    "teamManagement": {
+      "title": "Team Management",
+      "description": "Organize your team into departments and set vacation policies for each group."
+    },
+    "notifications": {
+      "title": "Notifications",
+      "description": "Stay informed with automated notifications for requests, approvals, and team absences."
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Track vacation trends and make data-driven decisions with comprehensive reports."
+    },
+    "policyManagement": {
+      "title": "Policy Management",
+      "description": "Define and enforce vacation policies, accrual rules, and blackout dates."
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Simple, efficient vacation management",
+    "description": "Our platform makes it easy to manage time off for teams of any size.",
+    "step1": {
+      "title": "Request Time Off",
+      "description": "Employees submit vacation requests through an intuitive interface, selecting dates and providing any necessary details."
+    },
+    "step2": {
+      "title": "Manager Approval",
+      "description": "Managers receive notifications and can approve or deny requests based on team coverage and business needs."
+    },
+    "step3": {
+      "title": "Automatic Updates",
+      "description": "Once approved, the team calendar updates automatically, and everyone stays informed about upcoming absences."
+    }
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "Trusted by teams worldwide",
+    "testimonial1": {
+      "name": "Sarah Johnson",
+      "position": "HR Director, TechCorp",
+      "quote": "VacationSync has transformed how we manage time off. The approval process is seamless, and our team loves the transparency."
+    },
+    "testimonial2": {
+      "name": "Michael Rodriguez",
+      "position": "Team Lead, InnovateCo",
+      "quote": "As a manager, I can finally see my entire team's schedule at a glance. The reporting features help me ensure we always have adequate coverage."
+    },
+    "testimonial3": {
+      "name": "Emily Chen",
+      "position": "CEO, StartupX",
+      "quote": "We've reduced administrative overhead by 70% since implementing VacationSync. The automated workflows have been a game-changer."
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Plans for teams of all sizes",
+    "description": "Choose the plan that works best for your organization.",
+    "startTrial": "Start your trial",
+    "contactSales": "Contact sales",
+    "whatsIncluded": "What's included",
+    "starter": {
+      "title": "Starter",
+      "description": "Perfect for small teams just getting started.",
+      "price": "$5",
+      "period": "/user/month",
+      "features": [
+        "Up to 10 users",
+        "Basic calendar view",
+        "Simple approval workflow",
+        "Email notifications"
+      ]
+    },
+    "professional": {
+      "title": "Professional",
+      "description": "For growing teams that need more features.",
+      "price": "$12",
+      "period": "/user/month",
+      "features": [
+        "Up to 50 users",
+        "Advanced calendar views",
+        "Custom approval workflows",
+        "Email and SMS notifications",
+        "Basic reporting",
+        "Team management"
+      ]
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "description": "For large organizations with complex needs.",
+      "price": "$20",
+      "period": "/user/month",
+      "features": [
+        "Unlimited users",
+        "All calendar views",
+        "Advanced approval workflows",
+        "All notification channels",
+        "Advanced analytics",
+        "SSO integration",
+        "Dedicated support"
+      ]
+    }
+  },
+  "cta": {
+    "title1": "Ready to simplify vacation management?",
+    "title2": "Start today.",
+    "getStarted": "Get started",
+    "learnMore": "Learn more"
+  },
+  "footer": {
+    "description": "Making team vacation management simple, efficient, and stress-free.",
+    "product": "Product",
+    "productLinks": [
+      { "text": "Features", "url": "/#features" }, 
+      { "text": "Integrations", "url": "/#" } 
+    ],
+    "support": "Support",
+    "supportLinks": [
+      { "text": "Documentation", "url": "/#" }, 
+      { "text": "Help Center", "url": "/#" },
+      { "text": "Contact Us", "url": "/#" }
+    ],
+    "company": "Company",
+    "companyLinks": [
+      { "text": "About", "url": "/about" }
+    ],
+    "legal": "Legal",
+    "legalLinks": [
+      { "text": "Privacy", "url": "/privacy" }, 
+      { "text": "Cookie Policy", "url": "/cookies" },
+      { "text": "GDPR", "url": "/gdpr" }
+    ],
+    "copyright": "© 2025 Holiflow. All rights reserved."
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "language": {
+    "en": "English",
+    "pt": "Portuguese"
+  },
+  "about": {
+    "title": "About HoliFlow",
+    "whoWeAre": {
+      "title": "Who We Are",
+      "description": "HoliFlow is an innovative platform dedicated to optimizing team management and simplifying the tracking of absences and vacations. Our mission is to create a more fluid, transparent, and productive work environment for companies."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "We believe that technology can improve how teams work together. Our goal is to offer intuitive and efficient solutions for managing time, communication, and productivity in the workplace."
+    },
+    "values": {
+      "title": "Our Values",
+      "transparency": "Transparency: We prioritize clear and open communication.",
+      "innovation": "Innovation: We are always looking for new ways to improve.",
+      "collaboration": "Collaboration: We value teamwork and mutual respect.",
+      "efficiency": "Efficiency: We create practical and easy-to-use solutions."
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "description": "Have questions or want to learn more about HoliFlow? Contact us!"
+    }
+  },
+  "cookies": {
+    "title": "Cookie Policy",
+    "introduction": {
+      "title": "1. Introduction",
+      "description": "HoliFlow uses cookies to enhance the user experience on our website. This policy explains what cookies are, how we use them, and how you can manage cookies."
+    },
+    "whatAreCookies": {
+      "title": "2. What are Cookies?",
+      "description": "Cookies are small text files stored on your device when you visit a website. They help improve browsing experience, remember preferences, and provide analytics about website usage."
+    },
+    "types": {
+      "title": "3. Types of Cookies Used",
+      "description": "We use the following types of cookies:",
+      "essential": "Essential Cookies: Required for the website to function.",
+      "performance": "Performance Cookies: Help understand how visitors interact with the website.",
+      "functionality": "Functionality Cookies: Improve user experience personalization.",
+      "advertising": "Advertising Cookies: Used to provide personalized advertisements."
+    },
+    "management": {
+      "title": "4. Cookie Management",
+      "description": "You can manage and disable cookies through your browser settings. However, disabling some cookies may affect certain website features."
+    },
+    "contact": {
+      "title": "5. Contact",
+      "description": "For more information about cookie usage, please contact us at:"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "introduction": {
+      "title": "1. Introduction",
+      "description": "Holi Flow is committed to protecting our users' privacy. This privacy policy explains how we collect, use, and protect your personal information."
+    },
+    "information": {
+      "title": "2. Information Collected",
+      "description": "We collect the following information:",
+      "items": [
+        "Profile information (name, email, position)",
+        "Absence and vacation data",
+        "Team information",
+        "System access logs"
+      ]
+    },
+    "usage": {
+      "title": "3. Information Usage",
+      "description": "We use your information to:",
+      "items": [
+        "Manage absences and vacations",
+        "Facilitate team communication",
+        "Improve our services",
+        "Generate reports and analytics",
+        "Manage the team"
+      ]
+    },
+    "protection": {
+      "title": "4. Data Protection",
+      "description": "We implement technical and organizational security measures to protect your information, including:",
+      "items": [
+        "Data encryption",
+        "Access control",
+        "Security monitoring",
+        "Regular backups"
+      ]
+    },
+    "rights": {
+      "title": "5. Your Rights",
+      "description": "You have the right to:",
+      "items": [
+        "Access your personal data",
+        "Correct incorrect information",
+        "Request data deletion",
+        "Export your data"
+      ]
+    },
+    "contact": {
+      "title": "6. Contact",
+      "description": "For privacy-related questions, please contact us at:"
+    }
+  },
+  "rgpd": {
+    "title": "GDPR Compliance Policy",
+    "introduction": {
+      "title": "1. Introduction",
+      "description": "Holi Flow is committed to protecting our users' personal data and complying with the General Data Protection Regulation (GDPR). This policy describes how we handle and protect your personal data."
+    },
+    "principles": {
+      "title": "2. Data Protection Principles",
+      "description": "We commit to following these principles in processing personal data:",
+      "items": [
+        "Lawfulness, fairness, and transparency",
+        "Purpose limitation",
+        "Data minimization",
+        "Accuracy",
+        "Storage limitation",
+        "Integrity and confidentiality",
+        "Accountability"
+      ]
+    },
+    "rights": {
+      "title": "3. Data Subject Rights",
+      "description": "Users have the following rights regarding their personal data:",
+      "items": [
+        "Right of access",
+        "Right to rectification",
+        "Right to erasure (\"right to be forgotten\")",
+        "Right to restriction of processing",
+        "Right to data portability",
+        "Right to object",
+        "Right not to be subject to automated decision-making"
+      ]
+    },
+    "security": {
+      "title": "4. Data Processing and Security",
+      "description": "We implement technical and organizational measures to ensure the security of personal data, including encryption, access control, and regular audits."
+    },
+    "contact": {
+      "title": "5. Contact and Complaints",
+      "description": "To exercise your rights or obtain more information, you can contact us at:",
+      "complaint": "If you are not satisfied with our response, you can file a complaint with the National Data Protection Commission (CNPD)."
+    }
+  },
+  "emailVisibility": {
+    "clickToShow": "Click to show email",
+    "clickToHide": "Click to hide email",
+    "copyToClipboard": "Copy to clipboard",
+    "copied": "Copied!",
+    "error": "Error copying to clipboard"
+  }
+}
