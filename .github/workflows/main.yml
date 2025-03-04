@@ -27,4 +27,4 @@ jobs:
         server: ftp.manjardoramos.pt
         username: deploy@holiflow.pt
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: build/
+        local-dir: dist/
